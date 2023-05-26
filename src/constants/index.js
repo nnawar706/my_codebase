@@ -3,7 +3,7 @@ import {mobile, backend, creator, web, javascript, typescript, html, css, reactj
     carrent, jobit, tripguide, threejs,
 } from "../assets";
 
-export const navLinks = [
+export const navs = [
     {
         id: "about",
         title: "About",
